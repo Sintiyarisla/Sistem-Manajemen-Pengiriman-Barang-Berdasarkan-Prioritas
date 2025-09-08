@@ -1,0 +1,11 @@
+Nama Pengirim,Nama Penerima,Alamat Pengirim,Alamat Penerima,Nomor Paket,Jenis Pengiriman,Berat Barang,cabang tujuan
+John Doe,Emma Smith,Jl. Merdeka No. 123,Jl. Raya Maju No. 456,jp0001,Reguler,1.5,
+Sarah Johnson,Michael Brown,Jl. Jendral Sudirman No. 789,Jl. Gatot Subroto No. 321,jp0002,Prioritas,2.2
+Lisa Anderson,David Wilson,Jl. Diponegoro No. 567,Jl. Thamrin No. 890,jp0003,Reguler,0.8
+Robert Taylor,Michelle Lee,Jl. Asia Afrika No. 901,Jl. Pahlawan No. 234,jp0004,Prioritas,1.1
+Jennifer Martinez,Christopher Davis,Jl. Hayam Wuruk No. 345,Jl. Mangga Dua No. 567,jp0005,Reguler,1.7
+Andrew Thomas,Olivia Johnson,Jl. Cikini Raya No. 678,Jl. Kemang No. 901,jp0006,Prioritas,1.4
+Jessica Clark,James Anderson,Jl. Sudirman No. 123,Jl. Thamrin No. 456,jp0007,Reguler,0.9
+Michael Wilson,Sophia Thompson,Jl. Diponegoro No. 789,Jl. Asia Afrika No. 901,jp0008,Reguler,1.2
+Emily Davis,Joshua Taylor,Jl. Gatot Subroto No. 234,Jl. Hayam Wuruk No. 345,jp0009,Prioritas,1.9
+Daniel Brown,Isabella Garcia,Jl. Merdeka No. 567,Jl. Sudirman No. 678,jp0010,Reguler,1.3
