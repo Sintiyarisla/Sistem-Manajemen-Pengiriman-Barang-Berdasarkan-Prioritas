@@ -1,0 +1,29 @@
+Nama Pengirim,Nama Penerima,Alamat Pengirim,Alamat Penerima,Nomor Paket,Jenis Pengiriman,Berat Barang,Tanggal,Cabang_Tujuan
+Husna Sucipto,Aliza Putra,"Perum Taman Asri no 15, Surabaya","Kemang, Jakarta",sp0002,Reguler,3,30/05/2024 12:15:09,Surabaya
+Annisa Puspita,Dewi Rahma,"Perum Graha Kencana no 11, Surabaya","Cipadu Raya, Jakarta",sp0003,Prioritas,1,31/05/2024 09:32:45,Surabaya
+Dimas Saputra,Fatimah Nurhayati,"Perum Bukit Indah no 7, Surabaya","Permata Hijau, Jakarta",sp0004,Reguler,5,01/06/2024 15:20:11,Surabaya
+Elsa Permata,M. Syahrul,"Jl. Pramuka no 90, Surabaya","Pondok Indah, Jakarta",sp0005,Prioritas,2,02/06/2024 10:42:23,Surabaya
+Rizki Ananda,Nabila Putri,"Jl. Diponegoro no 23, Surabaya","Taman Kota, Jakarta",sp0006,Reguler,4,03/06/2024 16:55:34,Surabaya
+Andi Wijaya,Siti Rahmawati,"Perum Bukit Hijau no 9, Surabaya","Pondok Gede, Jakarta",sp0007,Prioritas,1,04/06/2024 09:18:02,Surabaya
+Lilis Nurjanah,Raihan Pratama,"Perum Griya Indah no 13, Surabaya","Bintaro Jaya, Jakarta",sp0008,Reguler,3,05/06/2024 13:27:15,Surabaya
+Ahmad Nugroho,Citra Rahma,"Jl. Pahlawan no 45, Surabaya","Kemang, Jakarta",sp0009,Prioritas,2,06/06/2024 18:39:41,Surabaya
+Riska Anggraini,Fajar Habibie,"Jl. Sudirman no 78, Surabaya","Pluit, Jakarta",sp0010,Reguler,4,07/06/2024 11:04:22,Surabaya
+Fahri Adriansyah,Syifa Ramadhani,"Perum Graha Kencana no 11, Surabaya","Pantai Indah Kapuk, Jakarta",sp0011,Prioritas,1,08/06/2024 15:18:53,Surabaya
+Nadia Utami,Rayhan Pratama,"Jl. Diponegoro no 56, Surabaya","Bintaro Jaya, Jakarta",sp0012,Reguler,3,09/06/2024 09:27:16,Surabaya
+Faisal Rahman,Salma Novita,"Perum Bukit Indah no 11, Surabaya","Kemang, Jakarta",sp0013,Prioritas,2,10/06/2024 12:45:21,Surabaya
+Widya Pratiwi,Athalla Maheswara,"Perum Graha Kencana no 9, Surabaya","Pluit, Jakarta",sp0014,Reguler,4,11/06/2024 16:59:33,Surabaya
+Galih Prakoso,Nayla Putri,"Jl. Pramuka no 78, Surabaya","Bintaro Jaya, Jakarta",sp0015,Prioritas,1,12/06/2024 08:12:44,Surabaya
+Laila Fitriani,Bagas Saputra,"Perum Bukit Hijau no 13, Surabaya","Kemang, Jakarta",sp0016,Reguler,3,13/06/2024 14:23:55,Surabaya
+Alif Maulana,Zahra Nabilah,"Jl. Diponegoro no 34, Surabaya","Pluit, Jakarta",sp0017,Prioritas,2,14/06/2024 09:37:12,Surabaya
+Siti Khadijah,Iqbal Ramadhan,"Perum Graha Kencana no 7, Surabaya","Bintaro Jaya, Jakarta",sp0018,Reguler,4,15/06/2024 15:50:27,Surabaya
+Muhammad Rizky,Aulia Rahmawati,"Jl. Pahlawan no 21, Surabaya","Kemang, Jakarta",sp0019,Prioritas,1,16/06/2024 11:02:39,Surabaya
+Putri Lestari,Farhan Nugraha,"Perum Bukit Hijau no 3, Surabaya","Pluit, Jakarta",sp0020,Reguler,3,17/06/2024 13:15:48,Surabaya
+Adi Nugroho,Salsabila Putri,"Jl. Diponegoro no 56, Surabaya","Bintaro Jaya, Jakarta",sp0021,Prioritas,2,18/06/2024 08:27:51,Surabaya
+Dewi Novita,Hafizh Ramadhan,"Perum Graha Kencana no 11, Surabaya","Kemang, Jakarta",sp0022,Reguler,4,19/06/2024 12:39:02,Surabaya
+Budi Santoso,Alisha Rahmawati,"Jl. Pramuka no 78, Surabaya","Pluit, Jakarta",sp0023,Prioritas,1,20/06/2024 15:45:13,Surabaya
+Rini Purwanti,Fikri Aditya,"Perum Bukit Hijau no 9, Surabaya","Bintaro Jaya, Jakarta",sp0024,Reguler,3,21/06/2024 10:18:24,Surabaya
+Doni Wijaya,Adelia Putri,"Jl. Diponegoro no 45, Surabaya","Kemang, Jakarta",sp0025,Prioritas,2,22/06/2024 13:27:35,Surabaya
+Ayu Lestari,Farrel Ramadhan,"Perum Graha Kencana no 15, Surabaya","Pluit, Jakarta",sp0026,Reguler,4,23/06/2024 08:41:46,Surabaya
+Andi Saputra,Salwa Rahmawati,"Jl. Pramuka no 32, Surabaya","Bintaro Jaya, Jakarta",sp0027,Prioritas,1,24/06/2024 11:54:17,Surabaya
+Nurjanah,Alif Nugraha,"Perum Bukit Hijau no 19, Surabaya","Kemang, Jakarta",sp0028,Reguler,3,25/06/2024 14:09:28,Surabaya
+Arif Setiawan,Athira Putri,"Jl. Diponegoro no 45, Surabaya","Pluit, Jakarta",sp0029,Prioritas,2,26/06/2024 09:22:39,Surabaya
